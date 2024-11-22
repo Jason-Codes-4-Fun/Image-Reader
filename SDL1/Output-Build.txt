@@ -1,0 +1,18 @@
+﻿Build started...
+1>------ Build started: Project: SDL1, Configuration: Debug x64 ------
+1>SDL1.cpp
+1>C:\Users\Fenix\source\repos\SDL1\SDL1\ReadBMP.cpp(90,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+1>C:\Users\Fenix\source\repos\SDL1\SDL1\SDL1.cpp(24,101): warning C4244: 'argument': conversion from '_Ty' to 'Uint8', possible loss of data
+1>        with
+1>        [
+1>            _Ty=double
+1>        ]
+1>C:\Users\Fenix\source\repos\SDL1\SDL1\SDL1.cpp(24,68): warning C4244: 'argument': conversion from '_Ty' to 'Uint8', possible loss of data
+1>        with
+1>        [
+1>            _Ty=double
+1>        ]
+1>SDL1.vcxproj -> C:\Users\Fenix\source\repos\SDL1\x64\Debug\SDL1.exe
+1>Done building project "SDL1.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 6:58 PM and took 02.814 seconds ==========
